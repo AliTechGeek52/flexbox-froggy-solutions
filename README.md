@@ -1,1 +1,1 @@
-# flexbox-froggy-solutions
+# Flexbox-Froggy-Solutions
